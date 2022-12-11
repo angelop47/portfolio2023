@@ -24,6 +24,13 @@ const Social = () => {
       >
         <i class="uil uil-github"></i>
       </a>
+      <a
+        href="https://vsco.co/angelo-p47/gallery"
+        className="home__social-icon"
+        target={"_blank"} rel="noreferrer"
+      >
+        <i class="uil uil-image-v"></i>
+      </a>
     </div>
   );
 };
